@@ -37,5 +37,10 @@ for (let data in person) {
 const arr = Object.values(person);
 let json = JSON.stringify(person)
 //document.getElementById('id1').innerHTML = json + ""
-let Str="Cs stud";
-console.log(str.tolowerCase);
+let Str='\"Cs stud\"';
+//console.log(str);
+let sec=['a','b','v'];
+let sec1=[];
+sec1[0]='k';
+document.write(sec.toString)
+sec1.sort()
